@@ -1,6 +1,6 @@
 {
   "name": "frame-placer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Place turbo-frame tags into your DOM",
   "main": "index.js",
   "author": "Panos Dalitsouris",
