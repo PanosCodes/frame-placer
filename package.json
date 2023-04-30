@@ -4,6 +4,12 @@
   "description": "Place turbo-frame tags into your DOM",
   "main": "index.js",
   "author": "Panos Dalitsouris",
+  "homepage": "https://github.com/PanosCodes/frame-placer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PanosCodes/frame-placer.git"
+  },
+  "keywords": ["turbo-frame", "frame-placer"],
   "type": "module",
   "scripts": {
     "test": "mocha"
